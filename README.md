@@ -1,5 +1,3 @@
-- 🔭 I’m currently working on hr-workspace-react
-- 🌱 I’m currently learning django
 - 👯 I’m looking to collaborate on react projects
 - 💬 Ask me about web development
-- 📫 How to reach me: bharathprabhakaran@gmail.com
+- 📫 How to reach me: bharathprabhakaran28@gmail.com
